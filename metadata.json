@@ -1,0 +1,8 @@
+{
+  "name": "Remix PGRI RANTING SIRNAJAYA",
+  "description": "Sistem Manajemen PGRI RANTING SIRNAJAYA, Cabang Kecamatan Sukamakmur, Kabupaten Bogor: manajemen pengurus, anggota, 6 SD Imbas, transparansi iuran \u0026 laporan keuangan, notifikasi tagihan bulanan, galeri kegiatan, jadwal rapat, dan analitik kinerja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
